@@ -1,5 +1,5 @@
 # 🗾 MAPTY 🏃‍♂️🚴‍♂️ 
-> Simple web application that allows you to track and record your workouts using an interactive map created with Vanilla JavaScript.
+> Simple workout application created with Vanilla JavaScript.
 > Live demo [_here_](https://mapty-martagorska.netlify.app).
 
 ## Table of Contents
@@ -8,23 +8,22 @@
 * [Technologies Used](#technologies-used)
 * [Screenshots](#screenshots)
 * [Setup](#setup)
+* [Usage](#usage)
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
 
 
 ## General Information
-Choose any point on the map, select type of workout (running or cycling) and fill out several inputs like distance, duration, cadence or elevation. To add your workout on the list press Enter.
+Track and record your workouts using an interactive map.
 
 
 ## Features
-- Getting current location coordinates 🌍
-- Ability to add a workout (running or cycling) to specific location 📍
-- If selected workout is running, user sets his/her workout distance, duration, cadence, then application check the data validation and calculate the pace 🏃‍♂️
-- If selected workout is cycling, user sets his/her workout distance, duration, elevation gain, then application check the data validation and calculate the speed 🚴‍♂️
-- All the workout information will appear in a workout list 📒
-- A Map marker will show workout with date and workout type.
-- User can click on the workout to move the marker to see his/her different workout info on the map.
-- All the workout information will save in the localstorage 📁
+- Getting current user location coordinates 🌍
+- Ability to add a workout to a specific location 📍
+- Based on inputs filled in by the user (distance, duration, cadence or elevation) application check the data validation and calculate the pace or speed 🏃‍♂️🚴‍♂️
+- All information about the workout appear in a workout list 📒
+- User can click on the workout on the list to see location of this workout 🗾
+- All information will save in the localstorage 📁
 
 
 ## Technologies Used
@@ -44,6 +43,13 @@ Choose any point on the map, select type of workout (running or cycling) and fil
    git clone https://github.com/martagorska-dev/bankist-arrays
    ```
 3. Open  *index.html*
+
+
+## Usage
+- Choose any point on the map 🗾
+- Select type of workout (running or cycling) 🏃‍♂️🚴‍♂️
+- Fill out several inputs like distance, duration, cadence or elevation ⏱️
+- Press "Enter" to add your workout ⌨️
    
 
 ## Acknowledgements
