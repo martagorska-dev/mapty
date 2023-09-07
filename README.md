@@ -34,13 +34,13 @@ Track and record your workouts using an interactive map.
 
 
 ## Screenshots
-<img width="1792" alt="mapty" src="https://github.com/martagorska-dev/mapty/assets/130976058/65460563-9c8e-4cdc-83ae-c577f082eafb">
+https://github.com/martagorska-dev/mapty/assets/130976058/0b889158-fa31-43ba-94d2-fcfeb852a6ea
 
 
 ## Setup
 1. Clone this repository
    ```
-   git clone https://github.com/martagorska-dev/bankist-arrays
+   git clone https://github.com/martagorska-dev/mapty
    ```
 3. Open  *index.html*
 
